@@ -2,11 +2,12 @@
 
 ## 👨‍💻 About Me
  * 📚 Studying at the [HSE Lyceum](https://school.hse.ru)
+ * 🏆 Winner of the All-Russian Olympiad of Schoolchildren in Information Security
  * 🏅 Participant of the final stage of the [PROD](https://prodcontest.ru)
  * 👾 I'm fond of CTF
  * 🧑‍💼 I want to get a job in tech companies like FAANG
  * 🏀 I play basketball
- * 👻 Currently learning Ruby on Rails
+ * 👻 Currently learning Ruby on Rails/Java
 
 ## Contact Me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/brwade)
